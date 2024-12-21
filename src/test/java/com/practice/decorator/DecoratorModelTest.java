@@ -1,6 +1,10 @@
 package com.practice.decorator;
 
-import com.practice.decorator.model.*;
+import com.practice.decorator.model.beverage.*;
+import com.practice.decorator.model.condiment.Milk;
+import com.practice.decorator.model.condiment.Mocha;
+import com.practice.decorator.model.condiment.Soy;
+import com.practice.decorator.model.condiment.Whip;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

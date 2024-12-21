@@ -1,4 +1,4 @@
-package com.practice.decorator.model;
+package com.practice.decorator.model.beverage;
 
 public class Espresso extends Beverage{
 

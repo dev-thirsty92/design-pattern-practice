@@ -1,4 +1,6 @@
-package com.practice.decorator.model;
+package com.practice.decorator.model.condiment;
+
+import com.practice.decorator.model.beverage.Beverage;
 
 public class Whip extends CondimentDecorator{
 
